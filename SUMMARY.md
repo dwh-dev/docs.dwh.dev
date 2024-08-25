@@ -1,8 +1,9 @@
 # Table of contents
 
 * [What is Dwh.dev?](README.md)
-
-## Integrations
-
-* [Page 1](integrations/page-1.md)
-* [Page 2](integrations/page-2.md)
+* [Integrations](integrations/README.md)
+  * [Snowflake](integrations/snowflake/README.md)
+    * [Offline mode](integrations/snowflake/offline-mode.md)
+    * [Online Mode](integrations/snowflake/online-mode.md)
+    * [Snowflake Marketplace](integrations/snowflake/snowflake-marketplace.md)
+  * [DBT](integrations/dbt.md)
