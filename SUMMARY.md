@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Snowflake Integration](README.md)
-
+* [Dwh.dev - next-gen data lineage for data cloud](README.md)
