@@ -23,3 +23,5 @@ Dwh.dev is designed to help data teams easily understand, document, and manage t
 With Dwh.dev, you can search and visualize your data lineage, track data dependencies issues, and better understand your data pipelines.&#x20;
 
 It's a perfect solution for data engineers, analysts, and scientists who want to boost their productivity and efficiency.
+
+1
