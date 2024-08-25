@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dwh.dev](README.md)
+* [What is Dwh.dev?](README.md)
 * [Integrations](integrations/README.md)
   * [Snowflake](integrations/snowflake/README.md)
     * [Offline mode](integrations/snowflake/offline-mode.md)
