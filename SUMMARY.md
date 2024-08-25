@@ -4,4 +4,5 @@
 
 ## Integrations
 
-* [Page 11](integrations/page-11.md)
+* [Page 1](integrations/page-1.md)
+* [Page 2](integrations/page-2.md)
