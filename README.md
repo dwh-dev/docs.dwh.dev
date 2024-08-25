@@ -24,4 +24,3 @@ With Dwh.dev, you can search and visualize your data lineage, track data depende
 
 It's a perfect solution for data engineers, analysts, and scientists who want to boost their productivity and efficiency.
 
-1

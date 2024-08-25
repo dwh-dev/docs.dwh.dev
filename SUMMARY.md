@@ -22,6 +22,7 @@
     * [Online Mode](integrations/snowflake/online-mode.md)
     * [Snowflake Marketplace](integrations/snowflake/snowflake-marketplace.md)
   * [DBT](integrations/dbt.md)
+  * [API](integrations/api.md)
 * [Snowflake SQL Syntax and Behavior](snowflake-sql-syntax-and-behavior/README.md)
   * [Identifiers](snowflake-sql-syntax-and-behavior/identifiers.md)
   * [Reusing column aliases](snowflake-sql-syntax-and-behavior/reusing-column-aliases.md)
