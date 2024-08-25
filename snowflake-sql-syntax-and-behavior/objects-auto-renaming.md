@@ -1,0 +1,2 @@
+# Objects auto renaming
+
