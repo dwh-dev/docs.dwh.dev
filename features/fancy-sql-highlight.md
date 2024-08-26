@@ -8,8 +8,7 @@ In detailed object information and the DDL on the Lineage screen, you can observ
 
 Each object has an icon corresponding to its type and is clickable. Clicking on it will take you to the selected object. We distinguish all types of Snowflake objects - TABLE, VIEW, STAGE, STREAM, FUNCTION, etc.
 
-Additionally, we've created a reference guide for core functions. Hovering over such a function in SQL, you'll see a brief description:\
-
+Additionally, we've created a reference guide for core functions. Hovering over such a function in SQL, you'll see a brief description:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Short function's description</p></figcaption></figure>
 
