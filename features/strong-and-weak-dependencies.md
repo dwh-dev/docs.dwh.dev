@@ -1,6 +1,6 @@
 # Strong and Weak dependencies
 
-[Youtube](https://youtu.be/jQeVVlqxjj8)
+[**Youtube**](https://youtu.be/jQeVVlqxjj8)
 
 In the [**JOIN and WHERE section**](join-and-where.md), we discussed displaying columns used in JOIN and WHERE clauses. But we wanted to go further :)
 

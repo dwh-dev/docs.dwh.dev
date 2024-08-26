@@ -1,6 +1,6 @@
 # Navigation
 
-[Youtube](https://youtu.be/BS0XvzyTnwA)
+[**Youtube**](https://youtu.be/BS0XvzyTnwA)
 
 The commonly accepted navigation standard for Lineage is "expanding" each subsequent level on demand. This involves requesting information about each subsequent level from the backend.
 
