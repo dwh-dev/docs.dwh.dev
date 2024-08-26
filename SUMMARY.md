@@ -5,7 +5,6 @@
   * [Column-level lineage](features/column-level-lineage.md)
   * [In-query lineage](features/in-query-lineage.md)
   * [Data catalog](features/data-catalog.md)
-  * [Offline mode](features/offline-mode.md)
   * [Navigation](features/navigation.md)
   * [JOIN and WHERE](features/join-and-where.md)
   * [Equals lineage](features/equals-lineage.md)
