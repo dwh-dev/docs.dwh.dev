@@ -33,3 +33,4 @@
   * [UDF named arguments](snowflake-sql-syntax-and-behavior/udf-named-arguments.md)
   * [Objects auto renaming](snowflake-sql-syntax-and-behavior/objects-auto-renaming.md)
   * [Columns auto renaming](snowflake-sql-syntax-and-behavior/columns-auto-renaming.md)
+  * [ASOF Join](snowflake-sql-syntax-and-behavior/asof-join.md)
