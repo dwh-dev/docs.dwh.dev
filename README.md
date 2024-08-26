@@ -18,15 +18,15 @@ layout:
 
 We provide a unique data lineage solution built especially for Snowflake users.&#x20;
 
-**Dwh.dev** is designed to help data teams easily understand, document, and manage their data flow.
+[**Dwh.dev**](https://dwh.dev) is designed to help data teams easily understand, document, and manage their data flow.
 
-With **Dwh.dev**, you can search and visualize your data lineage, track data dependencies issues, and better understand your data pipelines.&#x20;
+With [**Dwh.dev**](https://dwh.dev), you can search and visualize your data lineage, track data dependencies issues, and better understand your data pipelines.&#x20;
 
 It's a perfect solution for data engineers, analysts, and scientists who want to boost their productivity and efficiency.
 
 ## **How does it work?**
 
-**Dwh.dev** is based on a static analyzer.\
+[**Dwh.dev**](https://dwh.dev) is based on a static analyzer.\
 We parse SQL, then compile it into an internal representation and analyze it.
 
 We don't use information from Snowflake system tables, which allows us to provide features such as:
