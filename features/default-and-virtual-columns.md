@@ -21,7 +21,7 @@ If during data transformations, only the id1 column is inserted into the **T1** 
 
 At [**Dwh.dev**](https://dwh.dev/), we display it like this:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 With **Virtual columns**, an even more precarious situation arises. It's impossible to insert data into a virtual column, and they will ALWAYS depend on other columns in the table.
 
