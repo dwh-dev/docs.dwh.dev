@@ -2,7 +2,7 @@
 
 [Youtube](https://youtu.be/jQeVVlqxjj8)
 
-In the previous section, we discussed displaying columns used in JOIN and WHERE clauses. But we wanted to go further :)
+In the [**JOIN and WHERE section**](join-and-where.md), we discussed displaying columns used in JOIN and WHERE clauses. But we wanted to go further :)
 
 Even if columns are data sources, it makes sense to divide them into 2 categories: columns that are direct data sources and columns that only influence them.
 
