@@ -7,7 +7,7 @@
   * [Data catalog](features/data-catalog.md)
   * [Navigation](features/navigation.md)
   * [JOIN and WHERE](features/join-and-where.md)
-  * [Equals lineage](features/equals-lineage.md)
+  * [Equals column lineage](features/equals-column-lineage.md)
   * [Strong and Weak dependencies](features/strong-and-weak-dependencies.md)
   * [Default and Virtual Columns](features/default-and-virtual-columns.md)
   * [Fancy SQL Highlight](features/fancy-sql-highlight.md)
