@@ -30,7 +30,7 @@
   * [Scalar functions name resolution special behavior](snowflake-sql-syntax-and-behavior/scalar-functions-name-resolution-special-behavior.md)
   * [Functions overloading](snowflake-sql-syntax-and-behavior/functions-overloading.md)
   * [CTE as an expression alias](snowflake-sql-syntax-and-behavior/cte-as-an-expression-alias.md)
+  * [ASOF Join](snowflake-sql-syntax-and-behavior/asof-join.md)
   * [UDF named arguments](snowflake-sql-syntax-and-behavior/udf-named-arguments.md)
   * [Objects auto renaming](snowflake-sql-syntax-and-behavior/objects-auto-renaming.md)
   * [Columns auto renaming](snowflake-sql-syntax-and-behavior/columns-auto-renaming.md)
-  * [ASOF Join](snowflake-sql-syntax-and-behavior/asof-join.md)
