@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/dwh-docs-cover-02.png
+cover: .gitbook/assets/dwh-docs-cover-03.png
 coverY: 0
 layout:
   cover:
