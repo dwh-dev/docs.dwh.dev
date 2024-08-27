@@ -12,6 +12,6 @@ SELECT l.c1 as a, l.c4 as b, r.c4 as c
   ORDER BY l.c1, l.c2
 ```
 
-The **MATCH\_CONDITION** is now displayed next to the **ON** condition in the [**in-query lineage**](../features/column-level-lineage/in-query-lineage.md). All columnar relationships are highlighted on click:
+The **MATCH\_CONDITION** is now displayed next to the **ON** condition in the [**in-query lineage**](../features/data-lineage/in-query-lineage.md). All columnar relationships are highlighted on click:
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

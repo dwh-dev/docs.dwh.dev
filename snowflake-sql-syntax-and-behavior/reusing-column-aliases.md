@@ -72,4 +72,4 @@ WHERE
   g = h;
 ```
 
-Since in [**Dwh.dev**](https://dwh.dev/) we display not only the data flows but also the [**columns used in JOIN and WHERE**](../features/column-level-lineage/join-and-where.md), you will also see the original column sources in the corresponding section.
+Since in [**Dwh.dev**](https://dwh.dev/) we display not only the data flows but also the [**columns used in JOIN and WHERE**](../features/data-lineage/join-and-where.md), you will also see the original column sources in the corresponding section.
