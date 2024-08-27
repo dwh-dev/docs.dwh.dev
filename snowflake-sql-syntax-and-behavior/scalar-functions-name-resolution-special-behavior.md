@@ -86,4 +86,4 @@ Oops… i.e. if there is a scalar function in the scheme where **VIEW** is creat
 
 **I.e. if you didn't specify a schema for a scalar function from the PUBLIC schema while creating a VIEW, in a schema other than PUBLIC, then to corrupt the data in your database it is enough to create a function with the same name in the corresponding schema…**
 
-At [**Dwh.dev**](https://dwh.dev/), we don't display downstream lineage for scalar functions right now, but if you click on that function in the source code ([**which we display in a very cool way**](../features/fancy-sql-highlight.md)), you will jump to the exact function used in that context.
+At [**Dwh.dev**](https://dwh.dev/), we don't display downstream lineage for scalar functions right now, but if you click on that function in the source code ([**which we display in a very cool way**](../features/data-catalog/fancy-sql-highlight.md)), you will jump to the exact function used in that context.

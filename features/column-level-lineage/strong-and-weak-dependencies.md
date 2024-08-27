@@ -32,4 +32,4 @@ Here, the value from A doesn't appear in the result but affects it.
 
 At [**Dwh.dev**](https://dwh.dev/), we divided such dependencies into classes: **STRONG** and **WEAK**. We annotated all core functions to determine which argument belongs to which class. We also analyze CASE WHEN and other cases. You can disable any of these classes in the settings panel:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Weak dependencies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Weak dependencies</p></figcaption></figure>

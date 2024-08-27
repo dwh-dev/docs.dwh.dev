@@ -40,8 +40,8 @@ We don't use information from Snowflake system tables, which allows us to provid
 
 * [**Offline mode**](integrations/snowflake/offline-mode.md): building data lineage without a direct connection to your database.
 * [**Secured online mode**](integrations/snowflake/secured-online-mode.md): when directly connected to the database, we only request access to metadata, without having direct access to the data.
-* [**In-query lineage**:](features/in-query-lineage.md) visualizing the dependency graph within a query.
-* [**Equals lineage**](features/equals-column-lineage.md): displaying a hidden dependency graph based on conditions in `JOIN` and `WHERE`.
+* [**In-query lineage**:](features/column-level-lineage/in-query-lineage.md) visualizing the dependency graph within a query.
+* [**Equals lineage**](features/column-level-lineage/equals-column-lineage.md): displaying a hidden dependency graph based on conditions in `JOIN` and `WHERE`.
 * And much more.
 
 You can access the parsing and compilation results through [**our API**](integrations/api.md).
