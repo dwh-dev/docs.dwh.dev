@@ -24,10 +24,12 @@ With [**Dwh.dev**](https://dwh.dev), you can search and visualize your data line
 
 It's a perfect solution for data engineers, analysts, and scientists who want to boost their productivity and efficiency.
 
+It's easy to start: any type of [**integration**](integrations/) takes about a few minutes!
+
 ## **How does it work?**
 
 [**Dwh.dev**](https://dwh.dev) is based on a static analyzer.\
-We parse SQL, then compile it into an internal representation and analyze it.
+We parse SQL, then compile it into an internal representation and analyze it **automatically**.
 
 We don't use information from Snowflake system tables, which allows us to provide features such as:
 
