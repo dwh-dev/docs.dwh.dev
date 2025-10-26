@@ -29,5 +29,5 @@ We don't use information from Snowflake system tables, which allows us to provid
 * [**Equals lineage**](features/column-level-lineage/equals-column-lineage.md): displaying a hidden dependency graph based on conditions in `JOIN` and `WHERE`.
 * And much more.
 
-You can access the parsing and compilation results through [**our API**](integrations/api-offline-mode.md).
+You can access the parsing and compilation results through [**our API**](integrations/api.md).
 
