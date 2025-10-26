@@ -23,6 +23,15 @@ The Marketplace version of DWH.dev performs static SQL analysis and metadata lin
 * **Continuously up-to-date lineage** - DWH.dev refreshes lineage automatically based on schema change tracking
 * **Integrated billing** - usage is billed through your existing Snowflake account balance (no separate contracts or credit cards)
 
+#### Requirements & Resources
+
+| **Snowflake Account** | Any account tier starting from Standard                                    | No dependency on [ACCESS\_HISTORY view](https://docs.snowflake.com/en/sql-reference/account-usage/access_history) — DWH.dev performs _static_ SQL analysis         |
+| --------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Compute Pool**      | DWH.dev runs entirely inside a dedicated compute pool of size CPU\_X64\_S  | Adds credit utilization of \~0.11 credits/hour, as per [Snowflake Credit Consumption Table (1d)](https://www.snowflake.com/legal-files/CreditConsumptionTable.pdf) |
+| **Warehouse**         | M size                                                                     | Used for query-history export                                                                                                                                      |
+| **Permissions**       | Metadata read access on target databases and Read access to QUERY\_HISTORY | No SELECT access to data contents required.                                                                                                                        |
+| **Network Access**    | None required                                                              | fully in-account execution                                                                                                                                         |
+
 #### Details
 
 * [query\_history-analysis-and-schema-change-tracking.md](query_history-analysis-and-schema-change-tracking.md "mention")
