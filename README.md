@@ -25,6 +25,7 @@ We parse SQL, then compile it into an internal representation and analyze it **a
 We don't use information from Snowflake system tables, which allows us to provide features such as:
 
 * [**Offline mode**](integrations/snowflake/offline-mode.md): building data lineage without a direct connection to your database.
+* [**Snowflake Marketplace (Native App)**](integrations/snowflake/snowflake-marketplace/): always up-to-date lineage without external dependencies
 * [**In-query lineage**:](features/column-level-lineage/in-query-lineage.md) visualizing the dependency graph within a query.
 * [**Equals lineage**](features/column-level-lineage/equals-column-lineage.md): displaying a hidden dependency graph based on conditions in `JOIN` and `WHERE`.
 * [**QUERY\_HISTORY analysis and schema change tracking**](integrations/snowflake/snowflake-marketplace/query_history-analysis-and-schema-change-tracking.md)
