@@ -20,12 +20,15 @@ The Marketplace version of DWH.dev performs static SQL analysis and metadata lin
 * **Instant setup** - no servers or containers to manage
 * **Secure** - fully isolated within your Snowflake account without external dependencies
 * **Automatic updates** - always the latest version
-* **Continuously up-to-date lineage** - DWH.dev refreshes lineage automatically based on schema change tracking.
-* **Integrated billing** - usage is billed through your existing Snowflake account balance (no separate contracts or credit cards).
+* **Continuously up-to-date lineage** - DWH.dev refreshes lineage automatically based on schema change tracking
+* **Integrated billing** - usage is billed through your existing Snowflake account balance (no separate contracts or credit cards)
 
+#### Details
 
-
-Details:&#x20;
+* [query\_history-analysis-and-schema-change-tracking.md](query_history-analysis-and-schema-change-tracking.md "mention")
+* [ctas-cost-management.md](ctas-cost-management.md "mention")
+* [ctas-logic-change-tracking.md](ctas-logic-change-tracking.md "mention")
+* [ctas-logic-change-alerting.md](ctas-logic-change-alerting.md "mention")
 
 
 
